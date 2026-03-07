@@ -7,6 +7,7 @@ const menuLocales = {
     blog: '博客',
     resources: '资源',
     sponsor: '赞助',
+    playground: 'Playground',
   },
 
   docs: {

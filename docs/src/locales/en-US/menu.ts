@@ -7,6 +7,7 @@ const menuLocales = {
     blog: 'Blog',
     resources: 'Resources',
     sponsor: 'Sponsor',
+    playground: 'Playground',
   },
 
   docs: {
